@@ -7,3 +7,7 @@ Started and managed a new branch
 Changed a file and committed those changes to GitHub
 Opened and merge a Pull Request
 
+05/04/2016
+Hello World with Github.com
+
+
